@@ -30,7 +30,7 @@ The purpose of these video tutorials is to train users to perform different type
 # Citation 
 This is a modified version of the GSpecDisp package (Sadeghisorkhani et al., 2017).
 If you use this code for your work, please cite the following DOI:
--	https://doi.org/10.5281/zenodo.7410076
+-	https://doi.org/10.1785/0220220267
 
 # Contact
 You can send an email to vittorio.minio@phd.unict.it to report suggestions, comments and bugs.
